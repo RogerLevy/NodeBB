@@ -1,0 +1,14 @@
+{
+    "url": "https://rpa-nodebb.herokuapp.com/",
+    "secret": "f8040833-7ae1-4c03-8556-dbc8c5cae51e",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": "mongodb://rpa:5hg-J29-6SL-Q29@ds147457-a0.mlab.com:47457,ds147457-a1.mlab.com:47457/rpa?replicaSet=rs-ds147457"
+    },
+    "type": "literal"
+}
